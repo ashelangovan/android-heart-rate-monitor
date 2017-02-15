@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\red_icon.png",
+        "source": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\src\\main\\res\\drawable-mdpi\\red_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\green_icon.png",
+        "source": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\src\\main\\res\\drawable-mdpi\\green_icon.png"
+    }
+]

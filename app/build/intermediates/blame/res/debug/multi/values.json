@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 53,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 43,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\Ashwin\\Downloads\\Compressed\\android-heart-rate-monitor-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]
